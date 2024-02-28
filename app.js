@@ -5,6 +5,9 @@
         <h2>I am H2 tag<h1>
     </div>
 </div>
+
+React.createElement=>ReactElement(Object)=>HTML(Browser Understands)
+Prarent is React Element or object and it is not creating HTNL elements, it is just an object
 */
 
 
